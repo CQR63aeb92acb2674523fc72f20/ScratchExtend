@@ -46,7 +46,7 @@ class CCWCQRCIB {
             },
             en: {
                 "CCWCQRCIB.name": "CIB",
-                "CCWCQRCIB.docs": "📖拓展教程",
+                "CCWCQRCIB.docs": "📖 Tutorial",
                 "CCWCQRCIB.openfile": "Open the image and encode it as base64",
                 "CCWCQRCIB.downloadfile": "Download bease64 [str] in image format",
             }

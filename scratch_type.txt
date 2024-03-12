@@ -1,9 +1,0 @@
-函数：
-积木块 Scratch.BlockType.COMMAND
-椭圆返回积木块 Scratch.BlockType.REPORTER
-布尔返回积木块 Scratch.BlockType.BOOLEAN
-输入：
-所有文本 Scratch.ArgumentType.STRING
-数字 Scratch.ArgumentType.NUMBER
-布尔 Scratch.ArgumentType.BOOLEAN
-颜色 Scratch.ArgumentType.COLOR
